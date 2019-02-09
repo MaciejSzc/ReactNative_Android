@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Chip-in",
+    "slug": "Chip-in",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icons/logo_icon.png",
+    "android": {
+      "package": "com.beyb00lsky.chip-in"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
